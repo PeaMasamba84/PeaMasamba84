@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;"><i>Who am i?</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Laravel and ReactJS)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations, etc.</strong></li>
-<li>:indonesia: From Sulawesi Selatan, Indonesia</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
-<li>:man_technologist: Let's code and play~</li>
+<li>:octocat: Cuma penerjemah subtitle dan tahu sedikit python.</strong></li>
+<li>:indonesia: Dari Sulawesi Selatan, Indonesia</li>
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
