@@ -1,7 +1,7 @@
 
 
 <!--
-**joenior/joenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**peamasamba/peamasamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Steven Joenior Naibaho <img src="https://github.com/joenior/joenior/blob/main/waving-hand_1f44b.png?raw=true" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Pea Masamba <img src="https://github.com/PeaMasamba84/peamasamba/blob/main/pea-masamba.png?raw=true" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;"><i>Who am i?</h3>
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently Laravel and ReactJS)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations, etc.</strong></li>
-<li>:indonesia: From Sumatera Utara, Indonesia</li>
+<li>:indonesia: From Sulawesi Selatan, Indonesia</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:man_technologist: Let's code and play~</li>
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/joenior" target="_blank"><img src="https://img.shields.io/badge/-joenior-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://github.com/PeaMasamba84" target="_blank"><img src="https://img.shields.io/badge/-joenior-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/joenior" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
-<a href="https://joenior.t.me"><img src="https://img.shields.io/badge/-@joenior-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
+<a href="peamasamba:fardangibrani21@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<a href="https://t.me/+LUX4Ppe0-YI4NTk1"><img src="https://img.shields.io/badge/-@joenior-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
 <br/><br/>
 <a href="https://teer.id/joenior" target="_blank"><img src="https://button.ibnux.net/trakteer/joenior.png" alt="Donate me :)" /></a>
 </div>
