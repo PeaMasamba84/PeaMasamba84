@@ -110,8 +110,8 @@ Here are some ideas to get you started:
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
-[![](https://github-readme-stats.vercel.app/api?username=joenior&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/joenior)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=joenior&theme=tokyonight&hide_border=true)](https://github.com/joenior)
+[![](https://github-readme-stats.vercel.app/api?username=peamasamba&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PeaMasamba84)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=peamasamba&theme=tokyonight&hide_border=true)](https://github.com/PeaMasamba84)
 
 </div>
 </div>
